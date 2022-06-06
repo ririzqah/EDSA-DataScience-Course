@@ -7,9 +7,15 @@ I have created this repository as a portfolio to showcase what I learned while a
 ### There are 7 branches for each sprint:
 
 Explore 101
+
 SQL
+
 Python
+
 Visualise(PowerBi)
+
 ML:Adv. Regression
+
 ML:Adv. Classification
+
 ML:Unsupervised Learning
