@@ -14,7 +14,7 @@ I have created this repository as a portfolio to showcase what I learned while a
 - Explore 101.
 - SQL.
 - Python.
-- Visualise(PowerBi).
-- ML:Adv. Regression.
-- ML:Adv. Classification.
-- ML:Unsupervised Learning.
+- Visualise(PowerBi). (Pending)
+- ML:Adv. Regression. (Pending)
+- ML:Adv. Classification. (Pending)
+- ML:Unsupervised Learning. (Pending)
