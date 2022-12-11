@@ -15,6 +15,6 @@ I have created this repository as a portfolio to showcase what I learned while a
 - SQL.
 - Python.
 - Visualise(PowerBi).
-- ML:Adv. Regression.
-- ML:Adv. Classification.
-- ML:Unsupervised Learning.
+- ML:Adv. Regression. (Predict project- https://github.com/Bornwise/load-shortfall-regression-predict-api)
+- ML:Adv. Classification (Predict project- https://github.com/ririzqah/classification-predict-streamlit-template , Hackathon- https://github.com/ririzqah/Explore-DS-Hackathon-Exam)
+- ML:Unsupervised Learning. (Predict Only: https://github.com/ririzqah/unsupervised-predict-streamlit-template)
